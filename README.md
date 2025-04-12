@@ -23,7 +23,7 @@
             padding: 20px;
             text-align: center;
             border-radius: 0 0 10px 10px;
-            background-image: url('[https://cdn.pixabay.com/photo/2020/08/07/09/05/forest-5470582_1280.jpg](https://itforum.com.br/wp-content/uploads/2022/12/sustentabilidade.jpg)');
+            background-image: url ('https://itforum.com.br/wp-content/uploads/2022/12/sustentabilidade.jpg');
             background-size: cover;
             background-position: center;
             box-shadow: inset 0 0 0 2000px rgba(0,0,0,0.6);
@@ -117,7 +117,7 @@
                 <ul class="practice-list">
                     <li><strong>Virtualização:</strong> Reduz a necessidade de hardware físico, consolidando servidores e otimizando o uso de recursos.</li>
                     <li><strong>Cloud Computing Sustentável:</strong> Escolher provedores de nuvem com infraestrutura eficiente em termos de energia e que utilizam fontes renováveis.</li>
-                    <li><strong>Eficiência Energética de Data Centers:</strong> Implementar tecnologias e práticas para reduzir o consumo de energia em data centers, como resfriamento eficiente e gestão inteligente de energia.</li>
+                    <li><strong>Eficiência Energética de Data Centers:</strong> Implementar tecnologias e práticas para reduzir o consumo de energia em data centers, como resfriamento eficiente e gestão inteligente              de energia.</li>
                     <li><strong>Gestão do Ciclo de Vida de Equipamentos:</strong> Adotar práticas de compra, uso, manutenção e descarte responsável de equipamentos eletrônicos.</li>
                     <li><strong>Impressão Consciente:</strong> Reduzir o consumo de papel, utilizar impressão frente e verso e configurar impressoras para economia de toner.</li>
                     <li><strong>Software e Aplicações Eficientes:</strong> Desenvolver e utilizar softwares e aplicações otimizados para consumir menos recursos do sistema.</li>
