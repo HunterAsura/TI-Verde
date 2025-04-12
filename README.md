@@ -23,7 +23,7 @@
             padding: 20px;
             text-align: center;
             border-radius: 0 0 10px 10px;
-            background-image: url('https://cdn.pixabay.com/photo/2020/08/07/09/05/forest-5470582_1280.jpg');
+            background-image: url('[https://cdn.pixabay.com/photo/2020/08/07/09/05/forest-5470582_1280.jpg](https://itforum.com.br/wp-content/uploads/2022/12/sustentabilidade.jpg)');
             background-size: cover;
             background-position: center;
             box-shadow: inset 0 0 0 2000px rgba(0,0,0,0.6);
